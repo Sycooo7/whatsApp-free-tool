@@ -2,7 +2,7 @@
   "name": "base64-js",
   "description": "Base64 encoding/decoding in pure JS",
   "version": "1.5.1",
-  "author": "T. Jameson Little <t.jameson.little@gmail.com>",
+  "author": " THEW MOZZ <alirajput8k@gmail.com>",
   "typings": "index.d.ts",
   "bugs": {
     "url": "https://github.com/beatgammit/base64-js/issues"
@@ -19,7 +19,7 @@
     "base64"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "Index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/beatgammit/base64-js.git"
